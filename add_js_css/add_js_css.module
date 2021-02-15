@@ -1,0 +1,5 @@
+<?php
+
+function add_js_css_page_attachments(array &$attachments) {
+    $attachments['#attached']['library'][] = 'add_js_css/libraryname';
+  }

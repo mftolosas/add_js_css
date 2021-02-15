@@ -1,0 +1,6 @@
+name: Add Js/Css
+type: module
+description: 'This is an example of how add js and css to module'
+package: Mafe
+version: '8.0.0'
+core: 8.x
